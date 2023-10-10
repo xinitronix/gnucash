@@ -4,10 +4,10 @@
 # отменяет процесс коммита.
 #
 # Текущая ветка: main
-# Ваша ветка опережает «origin/main» на 192 коммита.
+# Ваша ветка опережает «origin/main» на 386 коммитов.
 #   (используйте «git push», чтобы опубликовать ваши локальные коммиты)
 # 
-# It took 7.47 seconds to compute the branch ahead/behind values.
+# It took 11.50 seconds to compute the branch ahead/behind values.
 # You can use '--no-ahead-behind' to avoid this.
 #
 # Изменения, которые будут включены в коммит:
